@@ -1,0 +1,2 @@
+# peluqueria
+GitHub Pages
